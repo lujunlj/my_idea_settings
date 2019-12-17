@@ -4,7 +4,7 @@
     <property name="created">2019-12-14T22:15:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-12-17T14:49:34</property>
+    <property name="modified">2019-12-17T16:06:50</property>
     <property name="originalScheme">Monokai Sublime Text 3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -547,7 +547,12 @@
     </option>
     <option name="GO_LOCAL_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="7cd2d7" />
+        <option name="FOREGROUND" value="14adff" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="f7ad00" />
       </value>
     </option>
     <option name="HTML_CODE">
