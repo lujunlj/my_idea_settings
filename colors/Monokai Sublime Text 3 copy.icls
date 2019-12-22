@@ -4,7 +4,7 @@
     <property name="created">2019-12-14T22:15:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-12-18T16:26:52</property>
+    <property name="modified">2019-12-22T21:19:59</property>
     <property name="originalScheme">Monokai Sublime Text 3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -533,6 +533,11 @@
     <option name="GO_EXPORTED_FUNCTION">
       <value>
         <option name="FOREGROUND" value="a7ec21" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="57a5ae" />
       </value>
     </option>
     <option name="GO_KEYWORD">
