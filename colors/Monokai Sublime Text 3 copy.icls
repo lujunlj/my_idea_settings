@@ -4,7 +4,7 @@
     <property name="created">2019-12-14T22:15:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-03-12T15:57:45</property>
+    <property name="modified">2020-03-12T19:24:45</property>
     <property name="originalScheme">Monokai Sublime Text 3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -532,7 +532,7 @@
     </option>
     <option name="GO_EXPORTED_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="a7ec21" />
+        <option name="FOREGROUND" value="8dcb20" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION_CALL">
@@ -563,6 +563,11 @@
     <option name="GO_PACKAGE">
       <value>
         <option name="FOREGROUND" value="f7ad00" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="9913a6" />
       </value>
     </option>
     <option name="GROOVY_KEYWORD">
@@ -776,6 +781,18 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8a10a1" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_IMPORTED_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="740e88" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
