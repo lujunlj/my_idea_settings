@@ -4,7 +4,7 @@
     <property name="created">2019-12-14T22:15:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-02-25T10:16:16</property>
+    <property name="modified">2020-03-12T15:57:45</property>
     <property name="originalScheme">Monokai Sublime Text 3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -543,6 +543,11 @@
     <option name="GO_KEYWORD">
       <value>
         <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="GO_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="2a9e1d" />
       </value>
     </option>
     <option name="GO_LOCAL_FUNCTION">
