@@ -2,8 +2,8 @@
   <component name="vgo">
     <proxies>
       <list>
-        <option value="https://mirrors.aliyun.com/goproxy/,direct" />
         <option value="https://goproxy.cn,direct" />
+        <option value="https://mirrors.aliyun.com/goproxy/,direct" />
       </list>
     </proxies>
   </component>
