@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="User" type="JAVA" />
       <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
