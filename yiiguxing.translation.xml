@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consume" />
       <item value="reattempted until the update interval of sgnbs has elapsed or updates are forced" />
       <item value="\u 79 DF\u 6237\u 9 ED 8\u 8 BA 4\u 89 D 2\u 8272" />
       <item value="vendor" />
@@ -13,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="SESOTHO" value="1" />
       </map>
     </option>
