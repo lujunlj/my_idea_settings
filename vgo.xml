@@ -2,11 +2,11 @@
   <component name="vgo">
     <proxies>
       <list>
+        <option value="https://goproxy.cn,direct" />
         <option value="https://mirrors.aliyun.com/goproxy/,direct" />
         <option value="https://proxy.golang.org,direct" />
         <option value="https://proxy.golang.org/,direct" />
         <option value="direct" />
-        <option value="https://goproxy.cn,direct" />
       </list>
     </proxies>
   </component>
