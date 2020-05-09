@@ -5,7 +5,9 @@
       <blacklist language="Java" />
       <blacklist language="Angular HTML Template" />
       <blacklist language="JavaScript" />
-      <blacklist language="Go" />
+      <blacklist language="Go">
+        <added pattern="fmt.*" />
+      </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="SQL" />
       <blacklist language="Kotlin" />
@@ -16,7 +18,6 @@
       <language id="Angular2Html" />
       <language id="JavaScript" />
       <language id="kotlin" />
-      <language id="go" />
       <language id="Groovy" />
       <language id="SQL" />
     </disabledLanguages>
