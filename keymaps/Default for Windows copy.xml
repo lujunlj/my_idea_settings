@@ -13,6 +13,9 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
