@@ -2,10 +2,15 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-12-14T22:15:38</property>
+    <property name="description">idea主题</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-04-07T21:40:53</property>
+    <property name="modified">2020-07-27T03:06:07</property>
     <property name="originalScheme">Monokai Sublime Text 3</property>
+    <property name="vendorMail" />
+    <property name="vendorName" />
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
