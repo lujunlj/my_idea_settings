@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="int code=0; if(null!=max){ code = Integer.parseInt(max.getTreecode().substring(max.getTreecode().length() - 2)); }" />
       <item value="KEY FORMAT AVG BASE" />
       <item value="Consume" />
       <item value="reattempted until the update interval of sgnbs has elapsed or updates are forced" />
