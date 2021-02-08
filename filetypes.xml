@@ -9,6 +9,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Constant" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
