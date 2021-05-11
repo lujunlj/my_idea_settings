@@ -22,7 +22,7 @@
         <option value="JAVA.microservices.url.path.inlay.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="RelatedProblems" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

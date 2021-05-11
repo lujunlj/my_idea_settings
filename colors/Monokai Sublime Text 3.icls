@@ -747,6 +747,11 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="efe3c6" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
