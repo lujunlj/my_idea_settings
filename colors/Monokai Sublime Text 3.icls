@@ -36,6 +36,7 @@
     <option name="INDENT_GUIDE" value="383830" />
     <option name="METHOD_SEPARATORS_COLOR" value="5b5a4e" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="d3dcec" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="f8f8f2" />
@@ -112,6 +113,12 @@
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="5394ec" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="15c1c1" />
+        <option name="BACKGROUND" value="cfefc6" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -748,9 +755,7 @@
       </value>
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
-      <value>
-        <option name="BACKGROUND" value="efe3c6" />
-      </value>
+      <value />
     </option>
     <option name="TEXT">
       <value>
