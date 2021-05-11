@@ -15,4 +15,13 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="TOOLTIPS_DELAY_MS" value="300" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.RelatedProblems" />
+        <option value="JAVA.microservices.url.path.inlay.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="RelatedProblems" />
+  </component>
 </application>
