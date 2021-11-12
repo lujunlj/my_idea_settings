@@ -1,6 +1,9 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
+  <action id="CompileProject">
+    <keyboard-shortcut first-keystroke="ctrl numpad9" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -18,5 +21,8 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="shift m" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
