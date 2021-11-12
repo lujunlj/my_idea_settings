@@ -1,0 +1,28 @@
+<application>
+  <component name="vgo">
+    <environment>
+      <map>
+        <entry key="GOPROXY">
+          <value>
+            <list>
+              <option value="https://mirrors.aliyun.com/goproxy/,direct" />
+              <option value="https://goproxy.cn,direct" />
+              <option value="https://proxy.golang.org,direct" />
+              <option value="https://proxy.golang.org/,direct" />
+              <option value="direct" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </environment>
+    <proxies>
+      <list>
+        <option value="https://goproxy.cn,direct" />
+        <option value="https://mirrors.aliyun.com/goproxy/,direct" />
+        <option value="https://proxy.golang.org,direct" />
+        <option value="https://proxy.golang.org/,direct" />
+        <option value="direct" />
+      </list>
+    </proxies>
+  </component>
+</application>

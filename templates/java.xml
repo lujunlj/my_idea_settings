@@ -1,0 +1,3 @@
+<templateSet group="java">
+  <template name="main" value="public static void main(String[] args){&#10;}" description="main方法补全" toReformat="false" toShortenFQNames="true" />
+</templateSet>
