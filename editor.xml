@@ -8,6 +8,8 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
@@ -25,7 +27,10 @@
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
+    <pattern case-sensitive="true" pattern="\bTODO\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <filter name="TODO">
+      <pattern index="0" />
+    </filter>
   </component>
 </application>
