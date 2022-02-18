@@ -29,8 +29,16 @@
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="\bTODO\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bTOREAD\b.*">
+      <option name="FOREGROUND" value="e70d0e" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
     <filter name="TODO">
       <pattern index="0" />
+    </filter>
+    <filter name="TOREAD">
+      <pattern index="2" />
     </filter>
   </component>
 </application>
